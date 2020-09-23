@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-serverless-express": "^3.3.8",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "crypto-js": "^3.3.0",
+    "express": "~4.16.1",
+    "nodemon": "^2.0.4",
+    "serverless": "^2.1.1"
+  }
+}
